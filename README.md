@@ -7,3 +7,9 @@
 ![](https://imgur.com/TXwLZ1E.png)
 #### New Workflow create koro. Open nodes panel---> search: Google Sheets---> click: On raw added---> click koro: Set up credential
 ![](https://imgur.com/j8xlkjv.png)
+#### Go---> http://console.cloud.google.com/ ---> APIs & Services--->Credentials--->OAuth client ID--->Application type: Web application, Name: ja ache ta. scrol kore niche--->Authorized redirect URIs e click: Add URIs
+#### Copy--- OAuth Redirect URL
+![](https://imgur.com/W4zzXoc.png)
+#### Paste--- Authorized redirect URIs & Create button click koro.
+#### Copy koro---Client ID & Client secret 
+![](https://imgur.com/z1K2JD5.png)
