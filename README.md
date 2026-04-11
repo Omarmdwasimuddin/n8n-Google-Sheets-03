@@ -22,10 +22,10 @@
 ![](https://imgur.com/GwMsrXi.png)
 #### Go---> http://console.cloud.google.com/ ---> APIs & Services--->Credentials--->OAuth client ID--->Application type: Web application, Name: ja ache ta. scrol kore niche--->Authorized redirect URIs e click: Add URIs
 #### Copy--- OAuth Redirect URL
-![](https://imgur.com/W4zzXoc.png)
+![](https://imgur.com/a/kVBV9lx#GwMsrXi.png)
 #### Paste--- Authorized redirect URIs & Create button click koro.
 #### Copy koro---Client ID & Client secret 
-![](https://imgur.com/z1K2JD5.png)
+![](https://imgur.com/a/kVBV9lx#cSJKpGK.png)
 #### Paste koro---  
-![](https://imgur.com/hzEXLWt.png)
+![](https://imgur.com/a/kVBV9lx#ew1ai4m.png)
 #### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.
