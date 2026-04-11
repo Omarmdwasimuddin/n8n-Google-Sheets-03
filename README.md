@@ -13,3 +13,5 @@
 #### Paste--- Authorized redirect URIs & Create button click koro.
 #### Copy koro---Client ID & Client secret 
 ![](https://imgur.com/z1K2JD5.png)
+#### Paste koro---  
+![](https://imgur.com/hzEXLWt.png)
