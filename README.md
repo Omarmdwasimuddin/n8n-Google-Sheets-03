@@ -18,3 +18,5 @@
 #### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.  
 #### Set your document & sheet 
 ![](https://imgur.com/qNsGy04.png)
+#### Open nodes panel---> search: Gmail--->Send a message--->click koro: Set up credential
+![](https://imgur.com/GwMsrXi.png)
