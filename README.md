@@ -15,3 +15,4 @@
 ![](https://imgur.com/z1K2JD5.png)
 #### Paste koro---  
 ![](https://imgur.com/hzEXLWt.png)
+#### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.  
