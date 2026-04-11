@@ -16,3 +16,5 @@
 #### Paste koro---  
 ![](https://imgur.com/hzEXLWt.png)
 #### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.  
+#### Set your document & sheet 
+![](https://imgur.com/qNsGy04.png)
