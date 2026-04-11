@@ -5,7 +5,7 @@
 ![](https://imgur.com/XPHPEAe.png)
 #### Search koro--- gmail api & enable koro.
 ![](https://imgur.com/TXwLZ1E.png)
-#### New Workflow create koro. Open nodes panel---> search: Google Sheets---> click: On raw added---> click koro: Set up credential
+#### New Workflow create koro. Open nodes panel---> search koro: Google Sheets---> click: On raw added---> click koro: Set up credential
 ![](https://imgur.com/j8xlkjv.png)
 #### Go---> http://console.cloud.google.com/ ---> APIs & Services--->Credentials--->OAuth client ID--->Application type: Web application, Name: ja ache ta. scrol kore niche--->Authorized redirect URIs e click: Add URIs
 #### Copy--- OAuth Redirect URL
@@ -18,5 +18,5 @@
 #### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.  
 #### Set your document & sheet 
 ![](https://imgur.com/qNsGy04.png)
-#### Open nodes panel---> search: Gmail--->Send a message--->click koro: Set up credential
+#### Open nodes panel---> search koro: Gmail--->Send a message--->click koro: Set up credential
 ![](https://imgur.com/GwMsrXi.png)
