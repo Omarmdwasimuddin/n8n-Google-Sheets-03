@@ -5,3 +5,5 @@
 ![](https://imgur.com/XPHPEAe.png)
 #### Search koro--- gmail api & enable koro.
 ![](https://imgur.com/TXwLZ1E.png)
+#### New Workflow create koro. Open nodes panel---> search: Google Sheets---> click: On raw added
+![](https://imgur.com/j8xlkjv.png)
