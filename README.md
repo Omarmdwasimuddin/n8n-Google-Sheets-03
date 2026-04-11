@@ -29,3 +29,6 @@
 #### Paste koro---  
 ![](https://imgur.com/rUvJRlf.png)
 #### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.
+#### Give value & click Execution step button---  
+![](https://imgur.com/AF7nxUc.png)
+![](https://imgur.com/DKJkit2.png)
