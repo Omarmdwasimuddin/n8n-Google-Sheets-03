@@ -20,3 +20,12 @@
 ![](https://imgur.com/qNsGy04.png)
 #### Open nodes panel---> search koro: Gmail--->Send a message--->click koro: Set up credential
 ![](https://imgur.com/GwMsrXi.png)
+#### Go---> http://console.cloud.google.com/ ---> APIs & Services--->Credentials--->OAuth client ID--->Application type: Web application, Name: ja ache ta. scrol kore niche--->Authorized redirect URIs e click: Add URIs
+#### Copy--- OAuth Redirect URL
+![](https://imgur.com/W4zzXoc.png)
+#### Paste--- Authorized redirect URIs & Create button click koro.
+#### Copy koro---Client ID & Client secret 
+![](https://imgur.com/z1K2JD5.png)
+#### Paste koro---  
+![](https://imgur.com/hzEXLWt.png)
+#### Click koro--->Sign in with Google--->Advanced--->Go to n8n (unsafe)--->Select all & continue button click koro.
